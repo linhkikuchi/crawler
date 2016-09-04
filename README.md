@@ -1,6 +1,6 @@
 # Crawler
 This is a simple crawler in Java (single thread) to get the below items from user input url
-  - The title of the product (e.g. Madison RX3400)
+ - The title of the product (e.g. Madison RX3400)
  - The price of the product
  - The brand
  - Additional information 
